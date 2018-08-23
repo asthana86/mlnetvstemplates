@@ -1,0 +1,22 @@
+c:\users\gaoshri\documents\visual studio 2017\Projects\VSMLNETPredictionTemplate\VSMLNETPredictionTemplate\bin\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.deps.json
+c:\users\gaoshri\documents\visual studio 2017\Projects\VSMLNETPredictionTemplate\VSMLNETPredictionTemplate\bin\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.runtimeconfig.json
+c:\users\gaoshri\documents\visual studio 2017\Projects\VSMLNETPredictionTemplate\VSMLNETPredictionTemplate\bin\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.runtimeconfig.dev.json
+c:\users\gaoshri\documents\visual studio 2017\Projects\VSMLNETPredictionTemplate\VSMLNETPredictionTemplate\bin\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.dll
+c:\users\gaoshri\documents\visual studio 2017\Projects\VSMLNETPredictionTemplate\VSMLNETPredictionTemplate\obj\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.csproj.CoreCompileInputs.cache
+c:\users\gaoshri\documents\visual studio 2017\Projects\VSMLNETPredictionTemplate\VSMLNETPredictionTemplate\obj\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.AssemblyInfoInputs.cache
+c:\users\gaoshri\documents\visual studio 2017\Projects\VSMLNETPredictionTemplate\VSMLNETPredictionTemplate\obj\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.AssemblyInfo.cs
+c:\users\gaoshri\documents\visual studio 2017\Projects\VSMLNETPredictionTemplate\VSMLNETPredictionTemplate\obj\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.csprojAssemblyReference.cache
+c:\users\gaoshri\documents\visual studio 2017\Projects\VSMLNETPredictionTemplate\VSMLNETPredictionTemplate\bin\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.pdb
+c:\users\gaoshri\documents\visual studio 2017\Projects\VSMLNETPredictionTemplate\VSMLNETPredictionTemplate\obj\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.dll
+c:\users\gaoshri\documents\visual studio 2017\Projects\VSMLNETPredictionTemplate\VSMLNETPredictionTemplate\obj\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.pdb
+C:\Users\gaoshri\Source\Repos\mlnetvstemplates-gal\ML.NET Console Prediction Application\VSMLNETPredictionTemplate\bin\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.deps.json
+C:\Users\gaoshri\Source\Repos\mlnetvstemplates-gal\ML.NET Console Prediction Application\VSMLNETPredictionTemplate\bin\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.runtimeconfig.json
+C:\Users\gaoshri\Source\Repos\mlnetvstemplates-gal\ML.NET Console Prediction Application\VSMLNETPredictionTemplate\bin\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.runtimeconfig.dev.json
+C:\Users\gaoshri\Source\Repos\mlnetvstemplates-gal\ML.NET Console Prediction Application\VSMLNETPredictionTemplate\bin\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.dll
+C:\Users\gaoshri\Source\Repos\mlnetvstemplates-gal\ML.NET Console Prediction Application\VSMLNETPredictionTemplate\bin\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.pdb
+C:\Users\gaoshri\Source\Repos\mlnetvstemplates-gal\ML.NET Console Prediction Application\VSMLNETPredictionTemplate\obj\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.csprojAssemblyReference.cache
+C:\Users\gaoshri\Source\Repos\mlnetvstemplates-gal\ML.NET Console Prediction Application\VSMLNETPredictionTemplate\obj\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.csproj.CoreCompileInputs.cache
+C:\Users\gaoshri\Source\Repos\mlnetvstemplates-gal\ML.NET Console Prediction Application\VSMLNETPredictionTemplate\obj\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.AssemblyInfoInputs.cache
+C:\Users\gaoshri\Source\Repos\mlnetvstemplates-gal\ML.NET Console Prediction Application\VSMLNETPredictionTemplate\obj\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.AssemblyInfo.cs
+C:\Users\gaoshri\Source\Repos\mlnetvstemplates-gal\ML.NET Console Prediction Application\VSMLNETPredictionTemplate\obj\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.dll
+C:\Users\gaoshri\Source\Repos\mlnetvstemplates-gal\ML.NET Console Prediction Application\VSMLNETPredictionTemplate\obj\Debug\netcoreapp2.0\VSMLNETPredictionTemplate.pdb
