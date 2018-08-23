@@ -44,9 +44,8 @@ namespace MLNETConsoleApp
             model.WriteAsync("sentiment_model.zip");
 
             // 4. Use the model for a single prediction.
-            SentimentData testInput = new SentimentData { SentimentText = "ML.NET is fun! Explore more samples at https://github.com/dotnet/machinelearning-samples" };
+            SentimentData testInput = new SentimentData { SentimentText = "ML.NET is fun, more samples at https://github.com/dotnet/machinelearning-samples" };
             var sentiment = (model.Predict(testInput).Sentiment == true) ? "Positive" : "Negative";
-            Console.ForegroundColor = (sentiment.Equals("Positive")) ? ConsoleColor.Green : ConsoleColor.Red;
             Console.WriteLine("Predicted sentiment for \"" + testInput.SentimentText + "\" is:" +  sentiment);
             Console.ReadKey();
 
