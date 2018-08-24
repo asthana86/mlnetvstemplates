@@ -12,6 +12,9 @@ namespace MLNETModelLibrary
 {
     public static class ModelPrediction
     {
+        /*
+         * e.g. MLNETModelLibrary.ModelPrediction.Predict(new MLNETModelLibrary.SentimentData {SentimentText = "ML.NET is fun, more samples at https://github.com/dotnet/machinelearning-samples"}); 
+         */
         public static string Predict(SentimentData input)
         {
               // 1. Load the model from file.
