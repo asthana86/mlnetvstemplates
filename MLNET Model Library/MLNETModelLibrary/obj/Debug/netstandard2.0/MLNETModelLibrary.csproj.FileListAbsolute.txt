@@ -1,0 +1,10 @@
+c:\users\asthana\source\repo\MLNETModelLibrary\MLNETModelLibrary\bin\Debug\netstandard2.0\MLNETModelLibrary.deps.json
+c:\users\asthana\source\repo\MLNETModelLibrary\MLNETModelLibrary\bin\Debug\netstandard2.0\MLNETModelLibrary.dll
+c:\users\asthana\source\repo\MLNETModelLibrary\MLNETModelLibrary\obj\Debug\netstandard2.0\MLNETModelLibrary.csprojAssemblyReference.cache
+c:\users\asthana\source\repo\MLNETModelLibrary\MLNETModelLibrary\obj\Debug\netstandard2.0\MLNETModelLibrary.csproj.CoreCompileInputs.cache
+c:\users\asthana\source\repo\MLNETModelLibrary\MLNETModelLibrary\obj\Debug\netstandard2.0\MLNETModelLibrary.AssemblyInfoInputs.cache
+c:\users\asthana\source\repo\MLNETModelLibrary\MLNETModelLibrary\obj\Debug\netstandard2.0\MLNETModelLibrary.AssemblyInfo.cs
+c:\users\asthana\source\repo\MLNETModelLibrary\MLNETModelLibrary\bin\Debug\netstandard2.0\MLNETModelLibrary.pdb
+c:\users\asthana\source\repo\MLNETModelLibrary\MLNETModelLibrary\obj\Debug\netstandard2.0\MLNETModelLibrary.dll
+c:\users\asthana\source\repo\MLNETModelLibrary\MLNETModelLibrary\obj\Debug\netstandard2.0\MLNETModelLibrary.pdb
+C:\Users\asthana\source\repo\MLNETModelLibrary\MLNETModelLibrary\bin\Debug\netstandard2.0\Models\sentiment_model.zip
